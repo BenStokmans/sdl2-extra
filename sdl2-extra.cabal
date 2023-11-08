@@ -13,7 +13,7 @@ copyright:     Copyright © 2015 Vladimir Semyonov
                Copyright © 2023 Siniša Biđin
 category:      Sound, Foreign, Font, Graphics, Image
 build-type:    Simple
-cabal-version: >=2.2
+cabal-version: >=1.10
 
 source-repository head
   type:     git
