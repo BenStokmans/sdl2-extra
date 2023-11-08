@@ -36,7 +36,7 @@ library
   hs-source-dirs:
     src
 
- pkgconfig-depends:
+  pkgconfig-depends:
     sdl2 >= 2.0.3,
     SDL2_ttf >= 2.0.12,
     SDL2_mixer >= 2.0.0,
