@@ -1,4 +1,32 @@
-Copyright (c) 2023  Ben Stokmans
+Copyright (c) 2013-2022 Ömer Sinan Ağacan, Siniša Biđin, Rongcui Dong
+                        and others (see git commits)
+
+This code is licensed under MIT or BSD3 licenses, so that the user
+can chose between these two licenses.
+
+
+MIT licence text follows.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+BSD3 licence text follows.
 
 All rights reserved.
 
@@ -13,7 +41,7 @@ modification, are permitted provided that the following conditions are met:
       disclaimer in the documentation and/or other materials provided
       with the distribution.
 
-    * Neither the name of Ben Stokmans nor the names of other
+    * Neither the name of Rongcui Dong nor the names of other
       contributors may be used to endorse or promote products derived
       from this software without specific prior written permission.
 
